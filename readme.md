@@ -2,10 +2,11 @@
 
 ```c++
 /*
-Version:		V1.0
+Version:		V1.1
 Author:			Vincent
 Create Date:	2020/7/24
 Note:
+	20223/1/31		V1.1: Add Arduino example for AT Command test.
 */
 ```
 
@@ -36,3 +37,14 @@ Visit the wiki for details.
 - Display SMS message on OLED display
 
 ![t3](md_pic/t3.jpg)
+
+
+
+# Arduino Example
+
+## at_command.ino
+
+The AT instruction of serial port monitor can be forwarded to the A9G module.
+
+![t3](md_pic/arduino.jpg)
+
