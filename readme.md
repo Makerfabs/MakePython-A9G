@@ -22,7 +22,7 @@ With this board, you will easy to add text, SMS and data to your project. It is 
 
 - You can get one from: [MakePython A9G](https://www.makerfabs.com/makepython-a9g-gprs-gps-shield.html)
 
-- Hardware and detailed instructions please visit Wiki page: [MakePython A9G Wiki](https://www.makerfabs.com/wiki/index.php?title=MakePython_A9G)
+- Hardware and detailed instructions please visit Wiki page: [MakePython A9G Wiki](https://wiki.makerfabs.com/MaESP_A9G.html)
 
 # Related Test
 
